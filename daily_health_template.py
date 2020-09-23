@@ -4,7 +4,6 @@ import datetime
 from selenium import webdriver
 
 """
-    By: Thomas Flaglor
     Requirements: selenium needs to be installed and Chrome Version 85
     
     Description: 
